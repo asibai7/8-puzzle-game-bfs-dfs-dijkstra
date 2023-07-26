@@ -1,5 +1,7 @@
 # 8-puzzle-game-bfs-dfs-dijkstra
 
+Wrote a program which solves the 8 puzzle game by 3 different algorithms: BFS, DFS, and Dijkstra.
+
 Solving the 8 puzzle problem with BFS
 
 1) Have python 3.5 or higher installed on your development environment of your choice 
